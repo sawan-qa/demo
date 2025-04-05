@@ -1,5 +1,5 @@
 #String Slicing - We can return the range of character
-name = "Sawan Kumar"
+name = "Atul Kumar Singh"
 print(name[2:5])
 #slice from the start
 print(name[:5])
